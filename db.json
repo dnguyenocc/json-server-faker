@@ -1,304 +1,6004 @@
 {
   "charging_stations":[
-      {
-        "id": 0,
-        "wait_time": 94,
-        "price": 0.16,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 1,
-        "wait_time": 98,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 2,
-        "wait_time": 42,
-        "price": 0.15,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 3,
-        "wait_time": 106,
-        "price": 0.30000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 4,
-        "wait_time": 99,
-        "price": 0.32,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 5,
-        "wait_time": 52,
-        "price": 0.29000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 6,
-        "wait_time": 42,
-        "price": 0.29000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 7,
-        "wait_time": 116,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 8,
-        "wait_time": 103,
-        "price": 0.23,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 9,
-        "wait_time": 118,
-        "price": 0.2,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 10,
-        "wait_time": 98,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 11,
-        "wait_time": 46,
-        "price": 0.22,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 12,
-        "wait_time": 39,
-        "price": 0.21000000000000002,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 13,
-        "wait_time": 62,
-        "price": 0.30000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 14,
-        "wait_time": 45,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 15,
-        "wait_time": 93,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 16,
-        "wait_time": 88,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 17,
-        "wait_time": 92,
-        "price": 0.32,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 18,
-        "wait_time": 60,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 19,
-        "wait_time": 56,
-        "price": 0.21000000000000002,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 20,
-        "wait_time": 117,
-        "price": 0.14,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 21,
-        "wait_time": 116,
-        "price": 0.27,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 22,
-        "wait_time": 34,
-        "price": 0.30000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 23,
-        "wait_time": 111,
-        "price": 0.23,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 24,
-        "wait_time": 78,
-        "price": 0.16,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 25,
-        "wait_time": 34,
-        "price": 0.17,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 26,
-        "wait_time": 30,
-        "price": 0.2,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 27,
-        "wait_time": 101,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 28,
-        "wait_time": 24,
-        "price": 0.18,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 29,
-        "wait_time": 116,
-        "price": 0.14,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 30,
-        "wait_time": 93,
-        "price": 0.25,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 31,
-        "wait_time": 48,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 32,
-        "wait_time": 41,
-        "price": 0.2,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 33,
-        "wait_time": 78,
-        "price": 0.15,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 34,
-        "wait_time": 114,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 35,
-        "wait_time": 96,
-        "price": 0.15,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 36,
-        "wait_time": 16,
-        "price": 0.14,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 37,
-        "wait_time": 99,
-        "price": 0.23,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 38,
-        "wait_time": 119,
-        "price": 0.19,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 39,
-        "wait_time": 32,
-        "price": 0.30000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 40,
-        "wait_time": 20,
-        "price": 0.27,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 41,
-        "wait_time": 112,
-        "price": 0.32,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 42,
-        "wait_time": 99,
-        "price": 0.23,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 43,
-        "wait_time": 56,
-        "price": 0.18,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 44,
-        "wait_time": 14,
-        "price": 0.26,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 45,
-        "wait_time": 7,
-        "price": 0.18,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 46,
-        "wait_time": 7,
-        "price": 0.31,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 47,
-        "wait_time": 30,
-        "price": 0.29000000000000004,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 48,
-        "wait_time": 72,
-        "price": 0.17,
-        "power_in_kw": 7.2
-      },
-      {
-        "id": 49,
-        "wait_time": 54,
-        "price": 0.24,
-        "power_in_kw": 7.2
-      }
-    ]
+    {
+      "id": 0,
+      "wait_time": 26,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 1,
+      "wait_time": 106,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 2,
+      "wait_time": 86,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 3,
+      "wait_time": 88,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 4,
+      "wait_time": 25,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 5,
+      "wait_time": 16,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 6,
+      "wait_time": 110,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 7,
+      "wait_time": 84,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 8,
+      "wait_time": 80,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 9,
+      "wait_time": 11,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 10,
+      "wait_time": 41,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 11,
+      "wait_time": 66,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 12,
+      "wait_time": 49,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 13,
+      "wait_time": 91,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 14,
+      "wait_time": 13,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 15,
+      "wait_time": 77,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 16,
+      "wait_time": 73,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 17,
+      "wait_time": 86,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 18,
+      "wait_time": 6,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 19,
+      "wait_time": 46,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 20,
+      "wait_time": 120,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 21,
+      "wait_time": 118,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 22,
+      "wait_time": 110,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 23,
+      "wait_time": 50,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 24,
+      "wait_time": 111,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 25,
+      "wait_time": 13,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 26,
+      "wait_time": 49,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 27,
+      "wait_time": 95,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 28,
+      "wait_time": 79,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 29,
+      "wait_time": 77,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 30,
+      "wait_time": 106,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 31,
+      "wait_time": 81,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 32,
+      "wait_time": 67,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 33,
+      "wait_time": 108,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 34,
+      "wait_time": 29,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 35,
+      "wait_time": 55,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 36,
+      "wait_time": 36,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 37,
+      "wait_time": 77,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 38,
+      "wait_time": 69,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 39,
+      "wait_time": 29,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 40,
+      "wait_time": 89,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 41,
+      "wait_time": 55,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 42,
+      "wait_time": 85,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 43,
+      "wait_time": 75,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 44,
+      "wait_time": 85,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 45,
+      "wait_time": 9,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 46,
+      "wait_time": 79,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 47,
+      "wait_time": 1,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 48,
+      "wait_time": 118,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 49,
+      "wait_time": 114,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 50,
+      "wait_time": 83,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 51,
+      "wait_time": 65,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 52,
+      "wait_time": 75,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 53,
+      "wait_time": 55,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 54,
+      "wait_time": 6,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 55,
+      "wait_time": 54,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 56,
+      "wait_time": 22,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 57,
+      "wait_time": 19,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 58,
+      "wait_time": 41,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 59,
+      "wait_time": 78,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 60,
+      "wait_time": 85,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 61,
+      "wait_time": 73,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 62,
+      "wait_time": 35,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 63,
+      "wait_time": 107,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 64,
+      "wait_time": 36,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 65,
+      "wait_time": 105,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 66,
+      "wait_time": 52,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 67,
+      "wait_time": 18,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 68,
+      "wait_time": 56,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 69,
+      "wait_time": 110,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 70,
+      "wait_time": 42,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 71,
+      "wait_time": 97,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 72,
+      "wait_time": 50,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 73,
+      "wait_time": 34,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 74,
+      "wait_time": 54,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 75,
+      "wait_time": 90,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 76,
+      "wait_time": 99,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 77,
+      "wait_time": 41,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 78,
+      "wait_time": 82,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 79,
+      "wait_time": 113,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 80,
+      "wait_time": 118,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 81,
+      "wait_time": 105,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 82,
+      "wait_time": 27,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 83,
+      "wait_time": 62,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 84,
+      "wait_time": 41,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 85,
+      "wait_time": 79,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 86,
+      "wait_time": 12,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 87,
+      "wait_time": 63,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 88,
+      "wait_time": 33,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 89,
+      "wait_time": 61,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 90,
+      "wait_time": 86,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 91,
+      "wait_time": 82,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 92,
+      "wait_time": 19,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 93,
+      "wait_time": 21,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 94,
+      "wait_time": 16,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 95,
+      "wait_time": 97,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 96,
+      "wait_time": 105,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 97,
+      "wait_time": 95,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 98,
+      "wait_time": 21,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 99,
+      "wait_time": 93,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 100,
+      "wait_time": 41,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 101,
+      "wait_time": 41,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 102,
+      "wait_time": 107,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 103,
+      "wait_time": 103,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 104,
+      "wait_time": 21,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 105,
+      "wait_time": 52,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 106,
+      "wait_time": 80,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 107,
+      "wait_time": 111,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 108,
+      "wait_time": 33,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 109,
+      "wait_time": 99,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 110,
+      "wait_time": 30,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 111,
+      "wait_time": 42,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 112,
+      "wait_time": 53,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 113,
+      "wait_time": 19,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 114,
+      "wait_time": 7,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 115,
+      "wait_time": 47,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 116,
+      "wait_time": 18,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 117,
+      "wait_time": 32,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 118,
+      "wait_time": 29,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 119,
+      "wait_time": 67,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 120,
+      "wait_time": 53,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 121,
+      "wait_time": 91,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 122,
+      "wait_time": 75,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 123,
+      "wait_time": 83,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 124,
+      "wait_time": 91,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 125,
+      "wait_time": 108,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 126,
+      "wait_time": 116,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 127,
+      "wait_time": 88,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 128,
+      "wait_time": 116,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 129,
+      "wait_time": 67,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 130,
+      "wait_time": 24,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 131,
+      "wait_time": 42,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 132,
+      "wait_time": 38,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 133,
+      "wait_time": 101,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 134,
+      "wait_time": 27,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 135,
+      "wait_time": 54,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 136,
+      "wait_time": 24,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 137,
+      "wait_time": 10,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 138,
+      "wait_time": 0,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 139,
+      "wait_time": 99,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 140,
+      "wait_time": 18,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 141,
+      "wait_time": 39,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 142,
+      "wait_time": 50,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 143,
+      "wait_time": 115,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 144,
+      "wait_time": 108,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 145,
+      "wait_time": 60,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 146,
+      "wait_time": 98,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 147,
+      "wait_time": 105,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 148,
+      "wait_time": 77,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 149,
+      "wait_time": 77,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 150,
+      "wait_time": 0,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 151,
+      "wait_time": 46,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 152,
+      "wait_time": 5,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 153,
+      "wait_time": 28,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 154,
+      "wait_time": 78,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 155,
+      "wait_time": 91,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 156,
+      "wait_time": 8,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 157,
+      "wait_time": 5,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 158,
+      "wait_time": 11,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 159,
+      "wait_time": 109,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 160,
+      "wait_time": 53,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 161,
+      "wait_time": 26,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 162,
+      "wait_time": 35,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 163,
+      "wait_time": 99,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 164,
+      "wait_time": 63,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 165,
+      "wait_time": 64,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 166,
+      "wait_time": 88,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 167,
+      "wait_time": 46,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 168,
+      "wait_time": 72,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 169,
+      "wait_time": 52,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 170,
+      "wait_time": 68,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 171,
+      "wait_time": 66,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 172,
+      "wait_time": 21,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 173,
+      "wait_time": 45,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 174,
+      "wait_time": 54,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 175,
+      "wait_time": 26,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 176,
+      "wait_time": 25,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 177,
+      "wait_time": 51,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 178,
+      "wait_time": 93,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 179,
+      "wait_time": 106,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 180,
+      "wait_time": 90,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 181,
+      "wait_time": 8,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 182,
+      "wait_time": 86,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 183,
+      "wait_time": 110,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 184,
+      "wait_time": 89,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 185,
+      "wait_time": 47,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 186,
+      "wait_time": 3,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 187,
+      "wait_time": 75,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 188,
+      "wait_time": 53,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 189,
+      "wait_time": 98,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 190,
+      "wait_time": 28,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 191,
+      "wait_time": 31,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 192,
+      "wait_time": 71,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 193,
+      "wait_time": 64,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 194,
+      "wait_time": 113,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 195,
+      "wait_time": 49,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 196,
+      "wait_time": 45,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 197,
+      "wait_time": 105,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 198,
+      "wait_time": 89,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 199,
+      "wait_time": 23,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 200,
+      "wait_time": 103,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 201,
+      "wait_time": 47,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 202,
+      "wait_time": 2,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 203,
+      "wait_time": 66,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 204,
+      "wait_time": 67,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 205,
+      "wait_time": 21,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 206,
+      "wait_time": 105,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 207,
+      "wait_time": 73,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 208,
+      "wait_time": 9,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 209,
+      "wait_time": 110,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 210,
+      "wait_time": 104,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 211,
+      "wait_time": 24,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 212,
+      "wait_time": 115,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 213,
+      "wait_time": 58,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 214,
+      "wait_time": 104,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 215,
+      "wait_time": 57,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 216,
+      "wait_time": 42,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 217,
+      "wait_time": 74,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 218,
+      "wait_time": 112,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 219,
+      "wait_time": 38,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 220,
+      "wait_time": 67,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 221,
+      "wait_time": 70,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 222,
+      "wait_time": 26,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 223,
+      "wait_time": 107,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 224,
+      "wait_time": 63,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 225,
+      "wait_time": 36,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 226,
+      "wait_time": 70,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 227,
+      "wait_time": 2,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 228,
+      "wait_time": 5,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 229,
+      "wait_time": 17,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 230,
+      "wait_time": 56,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 231,
+      "wait_time": 92,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 232,
+      "wait_time": 60,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 233,
+      "wait_time": 118,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 234,
+      "wait_time": 20,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 235,
+      "wait_time": 36,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 236,
+      "wait_time": 76,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 237,
+      "wait_time": 82,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 238,
+      "wait_time": 103,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 239,
+      "wait_time": 91,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 240,
+      "wait_time": 21,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 241,
+      "wait_time": 72,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 242,
+      "wait_time": 7,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 243,
+      "wait_time": 50,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 244,
+      "wait_time": 106,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 245,
+      "wait_time": 66,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 246,
+      "wait_time": 7,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 247,
+      "wait_time": 58,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 248,
+      "wait_time": 10,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 249,
+      "wait_time": 71,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 250,
+      "wait_time": 110,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 251,
+      "wait_time": 67,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 252,
+      "wait_time": 35,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 253,
+      "wait_time": 35,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 254,
+      "wait_time": 9,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 255,
+      "wait_time": 112,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 256,
+      "wait_time": 104,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 257,
+      "wait_time": 22,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 258,
+      "wait_time": 64,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 259,
+      "wait_time": 77,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 260,
+      "wait_time": 29,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 261,
+      "wait_time": 65,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 262,
+      "wait_time": 8,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 263,
+      "wait_time": 88,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 264,
+      "wait_time": 34,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 265,
+      "wait_time": 1,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 266,
+      "wait_time": 31,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 267,
+      "wait_time": 42,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 268,
+      "wait_time": 71,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 269,
+      "wait_time": 97,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 270,
+      "wait_time": 36,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 271,
+      "wait_time": 110,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 272,
+      "wait_time": 67,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 273,
+      "wait_time": 34,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 274,
+      "wait_time": 3,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 275,
+      "wait_time": 107,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 276,
+      "wait_time": 51,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 277,
+      "wait_time": 55,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 278,
+      "wait_time": 74,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 279,
+      "wait_time": 40,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 280,
+      "wait_time": 64,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 281,
+      "wait_time": 27,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 282,
+      "wait_time": 2,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 283,
+      "wait_time": 88,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 284,
+      "wait_time": 23,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 285,
+      "wait_time": 55,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 286,
+      "wait_time": 85,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 287,
+      "wait_time": 45,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 288,
+      "wait_time": 56,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 289,
+      "wait_time": 94,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 290,
+      "wait_time": 27,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 291,
+      "wait_time": 32,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 292,
+      "wait_time": 80,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 293,
+      "wait_time": 32,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 294,
+      "wait_time": 82,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 295,
+      "wait_time": 104,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 296,
+      "wait_time": 71,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 297,
+      "wait_time": 40,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 298,
+      "wait_time": 49,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 299,
+      "wait_time": 42,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 300,
+      "wait_time": 116,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 301,
+      "wait_time": 13,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 302,
+      "wait_time": 60,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 303,
+      "wait_time": 117,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 304,
+      "wait_time": 18,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 305,
+      "wait_time": 63,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 306,
+      "wait_time": 2,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 307,
+      "wait_time": 40,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 308,
+      "wait_time": 116,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 309,
+      "wait_time": 5,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 310,
+      "wait_time": 17,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 311,
+      "wait_time": 115,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 312,
+      "wait_time": 72,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 313,
+      "wait_time": 88,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 314,
+      "wait_time": 94,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 315,
+      "wait_time": 88,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 316,
+      "wait_time": 40,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 317,
+      "wait_time": 118,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 318,
+      "wait_time": 7,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 319,
+      "wait_time": 7,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 320,
+      "wait_time": 46,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 321,
+      "wait_time": 97,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 322,
+      "wait_time": 9,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 323,
+      "wait_time": 33,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 324,
+      "wait_time": 25,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 325,
+      "wait_time": 69,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 326,
+      "wait_time": 58,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 327,
+      "wait_time": 21,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 328,
+      "wait_time": 56,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 329,
+      "wait_time": 64,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 330,
+      "wait_time": 92,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 331,
+      "wait_time": 91,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 332,
+      "wait_time": 34,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 333,
+      "wait_time": 2,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 334,
+      "wait_time": 105,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 335,
+      "wait_time": 55,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 336,
+      "wait_time": 100,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 337,
+      "wait_time": 48,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 338,
+      "wait_time": 27,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 339,
+      "wait_time": 14,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 340,
+      "wait_time": 57,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 341,
+      "wait_time": 0,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 342,
+      "wait_time": 42,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 343,
+      "wait_time": 102,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 344,
+      "wait_time": 100,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 345,
+      "wait_time": 59,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 346,
+      "wait_time": 119,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 347,
+      "wait_time": 76,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 348,
+      "wait_time": 113,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 349,
+      "wait_time": 108,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 350,
+      "wait_time": 27,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 351,
+      "wait_time": 106,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 352,
+      "wait_time": 20,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 353,
+      "wait_time": 53,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 354,
+      "wait_time": 12,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 355,
+      "wait_time": 51,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 356,
+      "wait_time": 98,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 357,
+      "wait_time": 86,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 358,
+      "wait_time": 108,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 359,
+      "wait_time": 70,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 360,
+      "wait_time": 87,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 361,
+      "wait_time": 95,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 362,
+      "wait_time": 30,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 363,
+      "wait_time": 94,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 364,
+      "wait_time": 105,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 365,
+      "wait_time": 116,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 366,
+      "wait_time": 65,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 367,
+      "wait_time": 28,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 368,
+      "wait_time": 12,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 369,
+      "wait_time": 22,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 370,
+      "wait_time": 33,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 371,
+      "wait_time": 91,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 372,
+      "wait_time": 30,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 373,
+      "wait_time": 95,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 374,
+      "wait_time": 42,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 375,
+      "wait_time": 33,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 376,
+      "wait_time": 21,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 377,
+      "wait_time": 56,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 378,
+      "wait_time": 40,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 379,
+      "wait_time": 12,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 380,
+      "wait_time": 22,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 381,
+      "wait_time": 82,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 382,
+      "wait_time": 76,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 383,
+      "wait_time": 37,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 384,
+      "wait_time": 67,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 385,
+      "wait_time": 26,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 386,
+      "wait_time": 38,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 387,
+      "wait_time": 81,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 388,
+      "wait_time": 100,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 389,
+      "wait_time": 0,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 390,
+      "wait_time": 81,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 391,
+      "wait_time": 41,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 392,
+      "wait_time": 84,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 393,
+      "wait_time": 120,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 394,
+      "wait_time": 20,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 395,
+      "wait_time": 40,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 396,
+      "wait_time": 6,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 397,
+      "wait_time": 72,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 398,
+      "wait_time": 70,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 399,
+      "wait_time": 10,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 400,
+      "wait_time": 115,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 401,
+      "wait_time": 37,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 402,
+      "wait_time": 14,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 403,
+      "wait_time": 15,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 404,
+      "wait_time": 36,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 405,
+      "wait_time": 69,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 406,
+      "wait_time": 107,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 407,
+      "wait_time": 18,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 408,
+      "wait_time": 45,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 409,
+      "wait_time": 112,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 410,
+      "wait_time": 28,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 411,
+      "wait_time": 35,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 412,
+      "wait_time": 49,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 413,
+      "wait_time": 107,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 414,
+      "wait_time": 66,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 415,
+      "wait_time": 86,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 416,
+      "wait_time": 71,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 417,
+      "wait_time": 39,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 418,
+      "wait_time": 21,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 419,
+      "wait_time": 100,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 420,
+      "wait_time": 48,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 421,
+      "wait_time": 29,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 422,
+      "wait_time": 7,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 423,
+      "wait_time": 39,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 424,
+      "wait_time": 89,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 425,
+      "wait_time": 96,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 426,
+      "wait_time": 62,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 427,
+      "wait_time": 96,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 428,
+      "wait_time": 50,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 429,
+      "wait_time": 62,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 430,
+      "wait_time": 111,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 431,
+      "wait_time": 114,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 432,
+      "wait_time": 90,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 433,
+      "wait_time": 50,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 434,
+      "wait_time": 7,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 435,
+      "wait_time": 70,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 436,
+      "wait_time": 39,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 437,
+      "wait_time": 21,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 438,
+      "wait_time": 55,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 439,
+      "wait_time": 63,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 440,
+      "wait_time": 112,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 441,
+      "wait_time": 3,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 442,
+      "wait_time": 20,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 443,
+      "wait_time": 76,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 444,
+      "wait_time": 76,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 445,
+      "wait_time": 68,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 446,
+      "wait_time": 62,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 447,
+      "wait_time": 82,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 448,
+      "wait_time": 27,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 449,
+      "wait_time": 24,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 450,
+      "wait_time": 61,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 451,
+      "wait_time": 43,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 452,
+      "wait_time": 20,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 453,
+      "wait_time": 70,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 454,
+      "wait_time": 75,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 455,
+      "wait_time": 70,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 456,
+      "wait_time": 22,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 457,
+      "wait_time": 55,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 458,
+      "wait_time": 0,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 459,
+      "wait_time": 79,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 460,
+      "wait_time": 34,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 461,
+      "wait_time": 29,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 462,
+      "wait_time": 109,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 463,
+      "wait_time": 87,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 464,
+      "wait_time": 37,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 465,
+      "wait_time": 12,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 466,
+      "wait_time": 69,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 467,
+      "wait_time": 24,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 468,
+      "wait_time": 28,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 469,
+      "wait_time": 119,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 470,
+      "wait_time": 30,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 471,
+      "wait_time": 13,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 472,
+      "wait_time": 62,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 473,
+      "wait_time": 89,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 474,
+      "wait_time": 120,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 475,
+      "wait_time": 27,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 476,
+      "wait_time": 40,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 477,
+      "wait_time": 25,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 478,
+      "wait_time": 53,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 479,
+      "wait_time": 32,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 480,
+      "wait_time": 97,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 481,
+      "wait_time": 7,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 482,
+      "wait_time": 75,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 483,
+      "wait_time": 100,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 484,
+      "wait_time": 46,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 485,
+      "wait_time": 56,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 486,
+      "wait_time": 111,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 487,
+      "wait_time": 20,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 488,
+      "wait_time": 26,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 489,
+      "wait_time": 92,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 490,
+      "wait_time": 102,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 491,
+      "wait_time": 116,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 492,
+      "wait_time": 60,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 493,
+      "wait_time": 39,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 494,
+      "wait_time": 31,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 495,
+      "wait_time": 45,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 496,
+      "wait_time": 90,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 497,
+      "wait_time": 79,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 498,
+      "wait_time": 23,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 499,
+      "wait_time": 114,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 500,
+      "wait_time": 61,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 501,
+      "wait_time": 87,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 502,
+      "wait_time": 113,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 503,
+      "wait_time": 99,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 504,
+      "wait_time": 35,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 505,
+      "wait_time": 92,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 506,
+      "wait_time": 77,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 507,
+      "wait_time": 88,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 508,
+      "wait_time": 105,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 509,
+      "wait_time": 53,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 510,
+      "wait_time": 53,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 511,
+      "wait_time": 94,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 512,
+      "wait_time": 91,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 513,
+      "wait_time": 109,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 514,
+      "wait_time": 118,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 515,
+      "wait_time": 75,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 516,
+      "wait_time": 44,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 517,
+      "wait_time": 96,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 518,
+      "wait_time": 88,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 519,
+      "wait_time": 61,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 520,
+      "wait_time": 1,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 521,
+      "wait_time": 76,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 522,
+      "wait_time": 18,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 523,
+      "wait_time": 49,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 524,
+      "wait_time": 74,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 525,
+      "wait_time": 40,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 526,
+      "wait_time": 68,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 527,
+      "wait_time": 95,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 528,
+      "wait_time": 108,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 529,
+      "wait_time": 64,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 530,
+      "wait_time": 4,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 531,
+      "wait_time": 26,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 532,
+      "wait_time": 21,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 533,
+      "wait_time": 63,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 534,
+      "wait_time": 106,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 535,
+      "wait_time": 74,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 536,
+      "wait_time": 88,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 537,
+      "wait_time": 22,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 538,
+      "wait_time": 69,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 539,
+      "wait_time": 92,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 540,
+      "wait_time": 92,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 541,
+      "wait_time": 7,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 542,
+      "wait_time": 44,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 543,
+      "wait_time": 59,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 544,
+      "wait_time": 35,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 545,
+      "wait_time": 17,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 546,
+      "wait_time": 81,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 547,
+      "wait_time": 14,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 548,
+      "wait_time": 67,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 549,
+      "wait_time": 2,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 550,
+      "wait_time": 32,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 551,
+      "wait_time": 30,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 552,
+      "wait_time": 32,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 553,
+      "wait_time": 108,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 554,
+      "wait_time": 35,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 555,
+      "wait_time": 0,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 556,
+      "wait_time": 72,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 557,
+      "wait_time": 104,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 558,
+      "wait_time": 21,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 559,
+      "wait_time": 36,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 560,
+      "wait_time": 113,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 561,
+      "wait_time": 34,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 562,
+      "wait_time": 6,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 563,
+      "wait_time": 7,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 564,
+      "wait_time": 78,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 565,
+      "wait_time": 42,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 566,
+      "wait_time": 62,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 567,
+      "wait_time": 36,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 568,
+      "wait_time": 37,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 569,
+      "wait_time": 103,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 570,
+      "wait_time": 112,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 571,
+      "wait_time": 74,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 572,
+      "wait_time": 80,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 573,
+      "wait_time": 81,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 574,
+      "wait_time": 90,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 575,
+      "wait_time": 23,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 576,
+      "wait_time": 0,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 577,
+      "wait_time": 87,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 578,
+      "wait_time": 98,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 579,
+      "wait_time": 90,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 580,
+      "wait_time": 106,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 581,
+      "wait_time": 88,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 582,
+      "wait_time": 62,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 583,
+      "wait_time": 41,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 584,
+      "wait_time": 109,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 585,
+      "wait_time": 88,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 586,
+      "wait_time": 91,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 587,
+      "wait_time": 30,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 588,
+      "wait_time": 15,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 589,
+      "wait_time": 39,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 590,
+      "wait_time": 74,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 591,
+      "wait_time": 100,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 592,
+      "wait_time": 55,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 593,
+      "wait_time": 52,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 594,
+      "wait_time": 90,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 595,
+      "wait_time": 118,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 596,
+      "wait_time": 107,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 597,
+      "wait_time": 18,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 598,
+      "wait_time": 1,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 599,
+      "wait_time": 72,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 600,
+      "wait_time": 62,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 601,
+      "wait_time": 92,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 602,
+      "wait_time": 109,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 603,
+      "wait_time": 114,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 604,
+      "wait_time": 108,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 605,
+      "wait_time": 45,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 606,
+      "wait_time": 66,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 607,
+      "wait_time": 14,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 608,
+      "wait_time": 75,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 609,
+      "wait_time": 15,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 610,
+      "wait_time": 110,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 611,
+      "wait_time": 54,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 612,
+      "wait_time": 101,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 613,
+      "wait_time": 102,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 614,
+      "wait_time": 72,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 615,
+      "wait_time": 48,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 616,
+      "wait_time": 105,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 617,
+      "wait_time": 116,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 618,
+      "wait_time": 103,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 619,
+      "wait_time": 102,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 620,
+      "wait_time": 70,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 621,
+      "wait_time": 65,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 622,
+      "wait_time": 33,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 623,
+      "wait_time": 107,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 624,
+      "wait_time": 37,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 625,
+      "wait_time": 41,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 626,
+      "wait_time": 58,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 627,
+      "wait_time": 1,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 628,
+      "wait_time": 69,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 629,
+      "wait_time": 55,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 630,
+      "wait_time": 48,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 631,
+      "wait_time": 14,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 632,
+      "wait_time": 74,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 633,
+      "wait_time": 16,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 634,
+      "wait_time": 22,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 635,
+      "wait_time": 109,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 636,
+      "wait_time": 95,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 637,
+      "wait_time": 112,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 638,
+      "wait_time": 23,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 639,
+      "wait_time": 83,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 640,
+      "wait_time": 9,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 641,
+      "wait_time": 6,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 642,
+      "wait_time": 61,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 643,
+      "wait_time": 8,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 644,
+      "wait_time": 86,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 645,
+      "wait_time": 27,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 646,
+      "wait_time": 58,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 647,
+      "wait_time": 38,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 648,
+      "wait_time": 101,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 649,
+      "wait_time": 89,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 650,
+      "wait_time": 13,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 651,
+      "wait_time": 88,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 652,
+      "wait_time": 102,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 653,
+      "wait_time": 33,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 654,
+      "wait_time": 30,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 655,
+      "wait_time": 20,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 656,
+      "wait_time": 2,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 657,
+      "wait_time": 73,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 658,
+      "wait_time": 120,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 659,
+      "wait_time": 61,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 660,
+      "wait_time": 66,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 661,
+      "wait_time": 34,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 662,
+      "wait_time": 45,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 663,
+      "wait_time": 55,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 664,
+      "wait_time": 57,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 665,
+      "wait_time": 63,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 666,
+      "wait_time": 97,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 667,
+      "wait_time": 90,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 668,
+      "wait_time": 45,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 669,
+      "wait_time": 66,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 670,
+      "wait_time": 116,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 671,
+      "wait_time": 8,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 672,
+      "wait_time": 72,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 673,
+      "wait_time": 25,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 674,
+      "wait_time": 71,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 675,
+      "wait_time": 54,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 676,
+      "wait_time": 58,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 677,
+      "wait_time": 50,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 678,
+      "wait_time": 49,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 679,
+      "wait_time": 3,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 680,
+      "wait_time": 102,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 681,
+      "wait_time": 26,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 682,
+      "wait_time": 74,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 683,
+      "wait_time": 104,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 684,
+      "wait_time": 19,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 685,
+      "wait_time": 15,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 686,
+      "wait_time": 63,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 687,
+      "wait_time": 107,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 688,
+      "wait_time": 89,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 689,
+      "wait_time": 40,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 690,
+      "wait_time": 1,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 691,
+      "wait_time": 7,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 692,
+      "wait_time": 95,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 693,
+      "wait_time": 22,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 694,
+      "wait_time": 73,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 695,
+      "wait_time": 94,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 696,
+      "wait_time": 6,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 697,
+      "wait_time": 5,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 698,
+      "wait_time": 47,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 699,
+      "wait_time": 109,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 700,
+      "wait_time": 62,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 701,
+      "wait_time": 70,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 702,
+      "wait_time": 120,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 703,
+      "wait_time": 60,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 704,
+      "wait_time": 40,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 705,
+      "wait_time": 99,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 706,
+      "wait_time": 118,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 707,
+      "wait_time": 8,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 708,
+      "wait_time": 102,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 709,
+      "wait_time": 16,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 710,
+      "wait_time": 68,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 711,
+      "wait_time": 43,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 712,
+      "wait_time": 105,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 713,
+      "wait_time": 51,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 714,
+      "wait_time": 87,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 715,
+      "wait_time": 81,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 716,
+      "wait_time": 83,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 717,
+      "wait_time": 105,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 718,
+      "wait_time": 13,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 719,
+      "wait_time": 98,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 720,
+      "wait_time": 57,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 721,
+      "wait_time": 120,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 722,
+      "wait_time": 110,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 723,
+      "wait_time": 98,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 724,
+      "wait_time": 42,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 725,
+      "wait_time": 94,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 726,
+      "wait_time": 27,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 727,
+      "wait_time": 118,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 728,
+      "wait_time": 43,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 729,
+      "wait_time": 27,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 730,
+      "wait_time": 92,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 731,
+      "wait_time": 103,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 732,
+      "wait_time": 39,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 733,
+      "wait_time": 9,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 734,
+      "wait_time": 26,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 735,
+      "wait_time": 72,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 736,
+      "wait_time": 72,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 737,
+      "wait_time": 16,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 738,
+      "wait_time": 45,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 739,
+      "wait_time": 89,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 740,
+      "wait_time": 101,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 741,
+      "wait_time": 40,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 742,
+      "wait_time": 59,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 743,
+      "wait_time": 49,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 744,
+      "wait_time": 42,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 745,
+      "wait_time": 81,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 746,
+      "wait_time": 80,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 747,
+      "wait_time": 17,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 748,
+      "wait_time": 79,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 749,
+      "wait_time": 43,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 750,
+      "wait_time": 104,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 751,
+      "wait_time": 120,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 752,
+      "wait_time": 77,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 753,
+      "wait_time": 1,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 754,
+      "wait_time": 16,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 755,
+      "wait_time": 75,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 756,
+      "wait_time": 104,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 757,
+      "wait_time": 73,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 758,
+      "wait_time": 66,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 759,
+      "wait_time": 62,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 760,
+      "wait_time": 50,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 761,
+      "wait_time": 30,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 762,
+      "wait_time": 7,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 763,
+      "wait_time": 13,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 764,
+      "wait_time": 114,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 765,
+      "wait_time": 64,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 766,
+      "wait_time": 87,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 767,
+      "wait_time": 89,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 768,
+      "wait_time": 79,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 769,
+      "wait_time": 90,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 770,
+      "wait_time": 5,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 771,
+      "wait_time": 42,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 772,
+      "wait_time": 73,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 773,
+      "wait_time": 86,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 774,
+      "wait_time": 49,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 775,
+      "wait_time": 96,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 776,
+      "wait_time": 10,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 777,
+      "wait_time": 15,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 778,
+      "wait_time": 107,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 779,
+      "wait_time": 7,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 780,
+      "wait_time": 11,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 781,
+      "wait_time": 21,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 782,
+      "wait_time": 109,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 783,
+      "wait_time": 11,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 784,
+      "wait_time": 106,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 785,
+      "wait_time": 95,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 786,
+      "wait_time": 17,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 787,
+      "wait_time": 69,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 788,
+      "wait_time": 25,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 789,
+      "wait_time": 91,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 790,
+      "wait_time": 67,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 791,
+      "wait_time": 74,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 792,
+      "wait_time": 115,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 793,
+      "wait_time": 27,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 794,
+      "wait_time": 78,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 795,
+      "wait_time": 44,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 796,
+      "wait_time": 102,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 797,
+      "wait_time": 25,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 798,
+      "wait_time": 47,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 799,
+      "wait_time": 8,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 800,
+      "wait_time": 58,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 801,
+      "wait_time": 94,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 802,
+      "wait_time": 110,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 803,
+      "wait_time": 17,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 804,
+      "wait_time": 77,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 805,
+      "wait_time": 41,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 806,
+      "wait_time": 82,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 807,
+      "wait_time": 58,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 808,
+      "wait_time": 120,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 809,
+      "wait_time": 81,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 810,
+      "wait_time": 87,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 811,
+      "wait_time": 114,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 812,
+      "wait_time": 12,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 813,
+      "wait_time": 105,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 814,
+      "wait_time": 14,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 815,
+      "wait_time": 29,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 816,
+      "wait_time": 93,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 817,
+      "wait_time": 60,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 818,
+      "wait_time": 84,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 819,
+      "wait_time": 79,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 820,
+      "wait_time": 5,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 821,
+      "wait_time": 91,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 822,
+      "wait_time": 87,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 823,
+      "wait_time": 36,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 824,
+      "wait_time": 4,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 825,
+      "wait_time": 49,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 826,
+      "wait_time": 3,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 827,
+      "wait_time": 81,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 828,
+      "wait_time": 24,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 829,
+      "wait_time": 106,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 830,
+      "wait_time": 43,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 831,
+      "wait_time": 30,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 832,
+      "wait_time": 58,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 833,
+      "wait_time": 81,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 834,
+      "wait_time": 106,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 835,
+      "wait_time": 78,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 836,
+      "wait_time": 62,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 837,
+      "wait_time": 60,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 838,
+      "wait_time": 13,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 839,
+      "wait_time": 89,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 840,
+      "wait_time": 17,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 841,
+      "wait_time": 47,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 842,
+      "wait_time": 118,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 843,
+      "wait_time": 26,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 844,
+      "wait_time": 100,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 845,
+      "wait_time": 31,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 846,
+      "wait_time": 73,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 847,
+      "wait_time": 79,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 848,
+      "wait_time": 47,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 849,
+      "wait_time": 2,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 850,
+      "wait_time": 33,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 851,
+      "wait_time": 62,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 852,
+      "wait_time": 80,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 853,
+      "wait_time": 62,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 854,
+      "wait_time": 95,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 855,
+      "wait_time": 84,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 856,
+      "wait_time": 77,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 857,
+      "wait_time": 38,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 858,
+      "wait_time": 96,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 859,
+      "wait_time": 105,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 860,
+      "wait_time": 109,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 861,
+      "wait_time": 61,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 862,
+      "wait_time": 25,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 863,
+      "wait_time": 65,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 864,
+      "wait_time": 58,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 865,
+      "wait_time": 17,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 866,
+      "wait_time": 19,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 867,
+      "wait_time": 21,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 868,
+      "wait_time": 59,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 869,
+      "wait_time": 59,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 870,
+      "wait_time": 118,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 871,
+      "wait_time": 88,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 872,
+      "wait_time": 27,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 873,
+      "wait_time": 112,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 874,
+      "wait_time": 3,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 875,
+      "wait_time": 13,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 876,
+      "wait_time": 2,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 877,
+      "wait_time": 100,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 878,
+      "wait_time": 0,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 879,
+      "wait_time": 69,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 880,
+      "wait_time": 95,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 881,
+      "wait_time": 87,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 882,
+      "wait_time": 54,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 883,
+      "wait_time": 5,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 884,
+      "wait_time": 64,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 885,
+      "wait_time": 65,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 886,
+      "wait_time": 78,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 887,
+      "wait_time": 74,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 888,
+      "wait_time": 54,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 889,
+      "wait_time": 22,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 890,
+      "wait_time": 60,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 891,
+      "wait_time": 106,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 892,
+      "wait_time": 55,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 893,
+      "wait_time": 97,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 894,
+      "wait_time": 98,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 895,
+      "wait_time": 3,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 896,
+      "wait_time": 101,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 897,
+      "wait_time": 44,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 898,
+      "wait_time": 36,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 899,
+      "wait_time": 70,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 900,
+      "wait_time": 54,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 901,
+      "wait_time": 36,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 902,
+      "wait_time": 87,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 903,
+      "wait_time": 10,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 904,
+      "wait_time": 76,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 905,
+      "wait_time": 26,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 906,
+      "wait_time": 31,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 907,
+      "wait_time": 10,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 908,
+      "wait_time": 13,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 909,
+      "wait_time": 40,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 910,
+      "wait_time": 63,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 911,
+      "wait_time": 117,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 912,
+      "wait_time": 104,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 913,
+      "wait_time": 15,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 914,
+      "wait_time": 101,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 915,
+      "wait_time": 85,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 916,
+      "wait_time": 74,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 917,
+      "wait_time": 94,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 918,
+      "wait_time": 11,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 919,
+      "wait_time": 43,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 920,
+      "wait_time": 49,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 921,
+      "wait_time": 21,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 922,
+      "wait_time": 117,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 923,
+      "wait_time": 6,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 924,
+      "wait_time": 89,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 925,
+      "wait_time": 94,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 926,
+      "wait_time": 7,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 927,
+      "wait_time": 62,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 928,
+      "wait_time": 3,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 929,
+      "wait_time": 119,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 930,
+      "wait_time": 67,
+      "price": 0.23,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 931,
+      "wait_time": 81,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 932,
+      "wait_time": 101,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 933,
+      "wait_time": 6,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 934,
+      "wait_time": 39,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 935,
+      "wait_time": 86,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 936,
+      "wait_time": 14,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 937,
+      "wait_time": 41,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 938,
+      "wait_time": 119,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 939,
+      "wait_time": 52,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 940,
+      "wait_time": 10,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 941,
+      "wait_time": 49,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 942,
+      "wait_time": 109,
+      "price": 0.2,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 943,
+      "wait_time": 10,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 944,
+      "wait_time": 87,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 945,
+      "wait_time": 79,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 946,
+      "wait_time": 67,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 947,
+      "wait_time": 54,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 948,
+      "wait_time": 88,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 949,
+      "wait_time": 33,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 950,
+      "wait_time": 100,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 951,
+      "wait_time": 105,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 952,
+      "wait_time": 31,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 953,
+      "wait_time": 119,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 954,
+      "wait_time": 29,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 955,
+      "wait_time": 105,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 956,
+      "wait_time": 99,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 957,
+      "wait_time": 117,
+      "price": 0.21000000000000002,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 958,
+      "wait_time": 1,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 959,
+      "wait_time": 100,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 960,
+      "wait_time": 53,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 961,
+      "wait_time": 105,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 962,
+      "wait_time": 62,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 963,
+      "wait_time": 15,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 964,
+      "wait_time": 74,
+      "price": 0.19,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 965,
+      "wait_time": 70,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 966,
+      "wait_time": 9,
+      "price": 0.32,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 967,
+      "wait_time": 66,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 968,
+      "wait_time": 86,
+      "price": 0.22,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 969,
+      "wait_time": 15,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 970,
+      "wait_time": 107,
+      "price": 0.17,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 971,
+      "wait_time": 3,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 972,
+      "wait_time": 105,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 973,
+      "wait_time": 81,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 974,
+      "wait_time": 118,
+      "price": 0.28,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 975,
+      "wait_time": 74,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 976,
+      "wait_time": 16,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 977,
+      "wait_time": 71,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 978,
+      "wait_time": 2,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 979,
+      "wait_time": 16,
+      "price": 0.31,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 980,
+      "wait_time": 36,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 981,
+      "wait_time": 16,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 982,
+      "wait_time": 40,
+      "price": 0.16,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 983,
+      "wait_time": 60,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 984,
+      "wait_time": 74,
+      "price": 0.24,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 985,
+      "wait_time": 80,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 986,
+      "wait_time": 83,
+      "price": 0.25,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 987,
+      "wait_time": 76,
+      "price": 0.13,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 988,
+      "wait_time": 114,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 989,
+      "wait_time": 54,
+      "price": 0.29000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 990,
+      "wait_time": 21,
+      "price": 0.33,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 991,
+      "wait_time": 102,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 992,
+      "wait_time": 69,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 993,
+      "wait_time": 95,
+      "price": 0.15,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 994,
+      "wait_time": 9,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 995,
+      "wait_time": 86,
+      "price": 0.27,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 996,
+      "wait_time": 20,
+      "price": 0.30000000000000004,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 997,
+      "wait_time": 90,
+      "price": 0.14,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 998,
+      "wait_time": 3,
+      "price": 0.26,
+      "power_in_kw": 7.2
+    },
+    {
+      "id": 999,
+      "wait_time": 21,
+      "price": 0.18,
+      "power_in_kw": 7.2
+    }
+  ]
 }
